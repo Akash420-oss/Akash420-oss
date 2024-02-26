@@ -44,6 +44,6 @@ document.getElementById('message').innerHTML = "";
 </script>
 </head>
 <body>
-<h1 class="blink" id="message">Initializing Secure Connection...<span class="emoji">⚙</span></h1>
+<h1 color="green" id="message">Initializing Secure Connection...<span class="emoji">⚙</span></h1>
 </body>
 </html>

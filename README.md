@@ -1,3 +1,4 @@
+![logo](https://github.com/Akash420-oss/Akash420-oss/blob/main/skull_banner.png)
 <h1 align="center" color="green">Acc3ss Gr@nt3d</h1>
 <h2 align="center">😉...𓆩Ⱥҟⱥꞩħ Ꞩīł𓆪...😉</h2>
 <h3 align="center">Cracking The Code of My Life</h3>

@@ -1,16 +1,49 @@
-### Hi there 👋
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Emoji Rotation</title>
+<style>
+@keyframes blink {
+0% {
+opacity: 1;
+}
+50% {
+opacity: 0;
+}
+100% {
+opacity: 1;
+}
+}
 
-<!--
-**Akash420-oss/Akash420-oss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+.blink {
+animation: blink 1s infinite;
+color: green;
+}
+@keyframes rotate {
+from {
+transform: rotate(0deg);
+}
+to {
+transform: rotate(360deg);
+}
+}
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+.emoji {
+animation: rotate 5s linear infinite; /* Adjust the duration as needed */
+display: inline-block;
+font-size: 2rem; /* Adjust the size as needed */
+}
+</style>
+<script>
+setTimeout(function() {
+// Change the message after 3 seconds
+document.getElementById('message').innerHTML = "";
+}, 3000); // 3000 milliseconds = 3 seconds
+</script>
+</head>
+<body>
+<h1 class="blink" id="message">Initializing Secure Connection...<span class="emoji">⚙</span></h1>
+</body>
+</html>

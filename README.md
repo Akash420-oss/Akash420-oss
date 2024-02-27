@@ -3,8 +3,8 @@
 <h2 align="center" color="red">😉...𓆩Ⱥҟⱥꞩħ Ꞩīł𓆪...😉</h2>
 <h3 align="center">Decrypting The Algorythms of My Existence</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=akash420-oss&label=Profile%20views&color=0e75b6&style=flat" alt="akash420-oss" /> </p>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=akash420-oss&label=Profile%20views&color=0e75b6&style=flat" alt="akash420-oss" /> </p>
 🔴 <b color="green">H0w T0 R34ch M3 ➢</b> **akashsil420@duck.com**
 <img align="right" width="200" src="https://media.tenor.com/thF-4X-idtEAAAAj/hack-hacker.gif">
 <h3 align="left">Connect with me:</h3>

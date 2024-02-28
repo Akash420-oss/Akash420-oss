@@ -2,16 +2,18 @@
 <h1 align="center" color="green">Acc3ss Gr@nt3d</h1>
 <h2 align="center" color="#e20000">😉...𓆩Ⱥҟⱥꞩħ Ꞩīł𓆪...😉</h2>
 <h3 align="center">Decrypting The Algorythms of My Existence</h3>
-<img align="right" width="200" src="https://media.tenor.com/thF-4X-idtEAAAAj/hack-hacker.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akash420-oss&label=Profile%20views&color=0e75b6&style=flat" alt="akash420-oss" /> </p>
+
 <h3 alignt="left">Who Am I...🤔?</h3>
+<img align="right" width="200" src="https://media.tenor.com/thF-4X-idtEAAAAj/hack-hacker.gif">
 <ul>
   <li>I may be mistaken for a robot, but trust me, I'm just a human with an exceptionally well-oiled brain...😆</li>
-  <li>Skilled in programming languages such as C, Python, and shell scripting for developing tools and conducting security assessments...</li>
+  <li>🛡️ Skilled in programming languages such as C, Python, and shell scripting for developing tools and conducting security assessments...</li>
   <li>Experienced in working with Linux environments, including system administration and command-line utilities....</li>
   <li>Specialized in IoT (Internet of Things) security, with knowledge of common protocols, device architectures, and vulnerabilities.</li>
-  <li>Proficient in Network Penetration Testing and Reverse Engineering.</li>
-<li>Passionate about Cybersecurity Research and contributing to open-source projects in the security community...</li>
+  <li>Passionate about Network Penetration Testing and Reverse Engineering.</li>
+  <li>💡 Excited about collaborating on projects related to cybersecurity, penetration testing, and reverse engineering...</li>
+<li>🧠 Constantly learning and staying updated on the latest trends and techniques in cybersecurity and Ethical hacking...</li>
 </ul>
 🔴 <b color="#008000">H0w T0 R34ch M3 ➢</b> <b color="blue">akashsil420@duck.com</b>
 <h3 align="left">Connect with me:</h3>

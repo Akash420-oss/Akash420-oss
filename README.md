@@ -6,15 +6,15 @@
 
 <h3 alignt="left">Who Am I...🤔?</h3>
 <img align="right" width="200" src="https://media.tenor.com/thF-4X-idtEAAAAj/hack-hacker.gif">
-<ul>
-  <li>I may be mistaken for a robot, but trust me, I'm just a human with an exceptionally well-oiled brain...😆</li>
-  <li>🛡️ Skilled in programming languages such as C, Python, and shell scripting for developing tools and conducting security assessments...</li>
-  <li>Experienced in working with Linux environments, including system administration and command-line utilities....</li>
-  <li>Specialized in IoT (Internet of Things) security, with knowledge of common protocols, device architectures, and vulnerabilities.</li>
-  <li>Passionate about Network Penetration Testing and Reverse Engineering.</li>
-  <li>💡 Excited about collaborating on projects related to cybersecurity, penetration testing, and reverse engineering...</li>
-<li>🧠 Constantly learning and staying updated on the latest trends and techniques in cybersecurity and Ethical hacking...</li>
-</ul>
+
+- 😉 I may be mistaken for a robot, but trust me, I'm just a human with an exceptionally well-oiled brain...
+- 🛡️ Skilled in programming languages such as C, Python, and shell scripting for developing tools and conducting security assessments...
+- 💻 Experienced in working with Linux environments, including system administration and command-line utilities...
+- 🌐 Specialized in IoT (Internet of Things) security, with knowledge of common protocols, device architectures, and vulnerabilities...
+- 🔥 Passionate about Network Penetration Testing and Reverse Engineering....
+- 💡 Excited about collaborating on projects related to cybersecurity, penetration testing, and reverse engineering...
+- 🧠 Constantly learning and staying updated on the latest trends and techniques in cybersecurity and Ethical hacking...
+
 🔴 <b color="#008000">H0w T0 R34ch M3 ➢</b> <b color="blue">akashsil420@duck.com</b>
 <h3 align="left">Connect with me:</h3>
 <p align="left">

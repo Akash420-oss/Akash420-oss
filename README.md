@@ -29,7 +29,7 @@ src="https://nmap.org/images/nmap-logo-256x256.png" alt="nmap" width="40" height
 src="https://cdn.icon-icons.com/icons2/1508/PNG/512/wireshark_104082.png" alt="wireshark" width="40" height="40"/> </a> <a href="https://scapy.net" target="_blank" rel="noreferrer"> <img
 src="https://scapy.readthedocs.io/en/latest/_images/scapy_logo.png" alt="scapy" width="40" height="40"/></a> <a href="https://ghidra-sre.org" target="_blank" rel="noreferrer"> <img
 src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Ghidra_logo.svg/1200px-Ghidra_logo.svg.png" alt="ghidra" width="40" height="40"/></a>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=akash420-oss&show_icons=true&locale=en&layout=compact&theme=shadow_green" alt="akash420-oss" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=akash420-oss&show_icons=true&locale=en&layout=compact&theme=gotham" alt="akash420-oss" /></p>
 
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=akash420-oss&theme=shadow_green" alt="akash420-oss" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=akash420-oss&theme=gotham" alt="akash420-oss" /></p>
 

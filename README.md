@@ -5,7 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akash420-oss&label=Profile%20views&color=0e75b6&style=flat" alt="akash420-oss" /> </p>
 
 <h3 alignt="left">Who Am I...🤔?</h3>
-<img align="right" width="200" src="https://media.tenor.com/thF-4X-idtEAAAAj/hack-hacker.gif">
+<img align="right" width="200" src="https://github.com/Akash420-oss/Akash420-oss/blob/main/skull_cmatrix.gif">
 
 - 😉 I may be mistaken for a robot, but trust me, I'm just a human with an exceptionally well-oiled brain...
 - 🛡️ Skilled in programming languages such as C, Python, and shell scripting for developing tools and conducting security assessments...

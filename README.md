@@ -1,10 +1,10 @@
 ![logo](https://github.com/Akash420-oss/Akash420-oss/blob/main/skull_banner.png)
 <h1 align="center" color="green">Acc3ss Gr@nt3d</h1>
-<h2 align="center" color="#e20000">😉...𓆩Ⱥҟⱥꞩħ Ꞩīł𓆪...😉</h2>
+<h2 align="center" color="#e20000"><img src="https://github.com/Akash420-oss/Akash420-oss/blob/main/coder_hacker.gif" width="27">...𓆩Ⱥҟⱥꞩħ Ꞩīł𓆪...<img src="https://github.com/Akash420-oss/Akash420-oss/blob/main/coder_hacker.gif" width="27"></h2>
 <h3 align="center">Decrypting The Algorythms of My Existence</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akash420-oss&label=Profile%20views&color=0e75b6&style=flat" alt="akash420-oss" /> </p>
 
-<h3 alignt="left">Who Am I...<img src="https://github.com/Akash420-oss/Akash420-oss/blob/main/coder_hacker.gif" width="26">?</h3>
+<h3 alignt="left">Who Am I...😉?</h3>
 <img align="right" width="200" src="https://github.com/Akash420-oss/Akash420-oss/blob/main/skull_cmatrix.gif">
 
 - 😉 I may be mistaken for a robot, but trust me, I'm just a human with an exceptionally well-oiled brain...

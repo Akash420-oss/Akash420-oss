@@ -4,7 +4,7 @@
 <h3 align="center"><img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif"></h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akash420-oss&label=Profile%20views&color=0e75b6&style=flat" alt="akash420-oss" /> </p>
 
-<h3 alignt="left">Who Am I...<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Smiling%20Face%20with%20Sunglasses.png" alt="Smiling Face with Sunglasses" width="20" height="20" />?</h3>
+<h3 alignt="left">Who Am I...<img src="https://private-user-images.githubusercontent.com/74038190/243078655-47eb2734-addb-46da-b4dd-5e1616cd3853.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzA4NzA3MTgsIm5iZiI6MTczMDg3MDQxOCwicGF0aCI6Ii83NDAzODE5MC8yNDMwNzg2NTUtNDdlYjI3MzQtYWRkYi00NmRhLWI0ZGQtNWUxNjE2Y2QzODUzLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDExMDYlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQxMTA2VDA1MjAxOFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWQ0MmU1MWE0YzE4MWNjNTM1YTczNjM1ZTZhOGZlZDk3NmNmYWQwZjI5NWMyYjFkNzM5MWM1ZjdmNzc2OTE1NzcmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.yEFjKo5iD_gzKqBN_vHpD3T2DCp3z1_GcbtHcHN_1jw" alt="Smiling Face with Sunglasses" width="22" height="22" />?</h3>
 <img align="right" width="200" src="https://github.com/Akash420-oss/Akash420-oss/blob/main/skull_cmatrix.gif">
 
 - 😉 I may be mistaken for a robot, but trust me, I'm just a human with an exceptionally well-oiled brain...

@@ -21,6 +21,7 @@
 <a href="https://linkedin.com/in/akash-sil-102481216" target="blank"><img align="center" src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" alt="akash-sil-102481216" height="40" width="40" /></a>
 <a href="https://fb.com/akash.sil.5851" target="blank"><img align="center" src="https://user-images.githubusercontent.com/74038190/235294010-ec412ef5-e3da-4efa-b1d4-0ab4d4638755.gif" alt="akash.sil.5851" height="40" width="40" /></a>
 <a href="https://instagram.com/akash_sil_420" target="blank"><img align="center" src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" alt="akash_sil_420" height="40" width="40" /></a>
+<a href="https://tryhackme.com/r/p/akash420" target="blank"><img align="center" src="https://github.com/Akash420-oss/Akash420-oss/blob/main/tryhackme.png" alt="akash420" height="65" width="65" /></a>
 </p>
 🟢 <b>┣▇▇ <b color="#FF4500">𝙻𝚘𝚟𝚎 𝙸𝚗𝚓𝚎𝚌𝚝𝚒𝚘𝚗</b> ▇▇═─ ❤️</b> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=15&pause=1000&color=8C00CC&vCenter=true&width=560&height=13&separator=%3C&lines=+SELECT+feelings+FROM+your_heart+WHERE+virus%3D'love'+OR+'1'%3D'1';" alt="Typing SVG" /></a>
 <h3 align="left"><img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="18"> Exploits and Utilities:</h3>

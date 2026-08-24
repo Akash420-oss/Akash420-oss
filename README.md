@@ -13,17 +13,21 @@
 
 ---
 
-<!-- ━━━━━━━━━━━━━━━━━━━━  HERO BANNER  ━━━━━━━━━━━━━━━━━━━━━━━ -->
-<div align="center">
-  <img alt="Akash420-oss hero banner"
-       src="https://github.com/Akash420-oss/Akash420-oss/blob/main/skull_banner.png?raw=true"
+<!-- ━━━━━━━━━━━━━━━━━━━━  HERO BANNER (animated, light/dark aware)  ━━━━━━━━ -->
+<picture>
+  <source media="(prefers-color-scheme: dark)"
+    srcset="https://capsule-render.vercel.app/api?type=venom&color=0:0a0e27,50:11F744,100:0a0e27&height=200&section=header&text=Akash%20Sil&fontSize=72&fontColor=11F744&animation=fadeIn&fontAlignY=55&desc=Cybersecurity%20%7C%20Penetration%20Testing%20%7C%20Reverse%20Engineering&descSize=18&descAlignY=75&descColor=00ccff" />
+  <source media="(prefers-color-scheme: light)"
+    srcset="https://capsule-render.vercel.app/api?type=venom&color=0:e8f5e9,50:00c853,100:e8f5e9&height=200&section=header&text=Akash%20Sil&fontSize=72&fontColor=1b5e20&animation=fadeIn&fontAlignY=55&desc=Cybersecurity%20%7C%20Penetration%20Testing%20%7C%20Reverse%20Engineering&descSize=18&descAlignY=75&descColor=004d40" />
+  <img alt="Akash Sil animated hero banner"
+       src="https://capsule-render.vercel.app/api?type=venom&color=0:0a0e27,50:11F744,100:0a0e27&height=200&section=header&text=Akash%20Sil&fontSize=72&fontColor=11F744&animation=fadeIn&fontAlignY=55&desc=Cybersecurity%20%7C%20Penetration%20Testing%20%7C%20Reverse%20Engineering&descSize=18&descAlignY=75&descColor=00ccff"
        width="100%" />
-</div>
+</picture>
 
-<!-- ━━━━━━━━━━━━━━━━━━  ANIMATED TITLE  ━━━━━━━━━━━━━━━━━━━━━━ -->
+<!-- ━━━━━━━━━━━━━━━━━━  HACKER TERMINAL (animated typing SVG)  ━━━━━━━━━━━━ -->
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&pause=100&color=11F744&center=true&width=500&height=70&lines=Acc3ss+Gr%40nt3d;%5B+H4ck3r+M0d3+%3A+0N+%5D;%5B+Syst3m+Br34ch3d+%5D" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=800&color=11F744&background=0A0E2700&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=130&lines=root%40hack%3A~%24+whoami;%E2%96%BA+Akash420-oss+%5BCybersecurity+Specialist%5D;root%40hack%3A~%24+cat+skills.txt;%E2%96%BA+Python+%7C+C+%7C+Bash+%7C+Network+Security;root%40hack%3A~%24+system_status;%E2%9C%93+Access+Level%3A+ROOT+GRANTED" alt="Hacker Terminal Animation" />
   </a>
 </h1>
 
@@ -40,7 +44,7 @@
 
 <!-- Profile view counter -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=akash420-oss&label=%F0%9F%91%81%EF%B8%8F%20Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=akash420-oss&label=%F0%9F%91%81%EF%B8%8F%20Profile%20Views&color=11F744&style=for-the-badge" alt="Profile views" />
 </p>
 
 ---
@@ -96,7 +100,7 @@
 
 </p>
 
-<!-- GIF social icons (original personality icons beneath badges) -->
+<!-- GIF social icons -->
 <p align="center">
   <a href="https://linkedin.com/in/akash-sil-102481216" target="_blank">
     <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" height="40" width="40" alt="LinkedIn animated" />
@@ -186,10 +190,17 @@
 <!-- ━━━━━━━━━━━━━━━━━━━  PROJECTS  ━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
 <h3 align="center">🚀 Projects</h3>
 
+<!-- Animated projects banner — capsule-render, no static PNG -->
 <div align="center">
   <a href="https://github.com/Akash420-oss?tab=repositories" target="_blank">
-    <img src="https://github.com/Akash420-oss/Akash420-oss/blob/main/projects_banner.png?raw=true"
-         alt="Projects Banner" width="80%" />
+    <picture>
+      <source media="(prefers-color-scheme: dark)"
+        srcset="https://capsule-render.vercel.app/api?type=rect&color=0:0a0e27,100:11F744&height=60&text=%F0%9F%9B%B8%20Explore%20My%20Projects&fontSize=28&fontColor=ffffff&animation=blinking&fontAlignY=62" />
+      <source media="(prefers-color-scheme: light)"
+        srcset="https://capsule-render.vercel.app/api?type=rect&color=0:e8f5e9,100:00c853&height=60&text=%F0%9F%9B%B8%20Explore%20My%20Projects&fontSize=28&fontColor=1b5e20&animation=blinking&fontAlignY=62" />
+      <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0e27,100:11F744&height=60&text=%F0%9F%9B%B8%20Explore%20My%20Projects&fontSize=28&fontColor=ffffff&animation=blinking&fontAlignY=62"
+           alt="Projects Banner" width="80%" />
+    </picture>
   </a>
 </div>
 
@@ -238,13 +249,19 @@
 
 ---
 
-<!-- ━━━━━━━━━━━━━━━━━━  FOOTER  ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=11F744&height=80&section=footer&fontColor=ffffff" alt="footer wave" width="100%" />
-</p>
+<!-- ━━━━━━━━━━━━━━━━━━  FOOTER (animated waving, light/dark aware)  ━━━━━━━ -->
+<picture>
+  <source media="(prefers-color-scheme: dark)"
+    srcset="https://capsule-render.vercel.app/api?type=waving&color=0:11F744,100:0a0e27&height=80&section=footer&fontColor=ffffff" />
+  <source media="(prefers-color-scheme: light)"
+    srcset="https://capsule-render.vercel.app/api?type=waving&color=0:00c853,100:e8f5e9&height=80&section=footer&fontColor=1b5e20" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:11F744,100:0a0e27&height=80&section=footer&fontColor=ffffff"
+       alt="footer wave" width="100%" />
+</picture>
 
 <p align="center">
   <i>"The quieter you become, the more you are able to hear."</i>
   <br/>
   <sub>— Kali Linux 🐉</sub>
 </p>
+

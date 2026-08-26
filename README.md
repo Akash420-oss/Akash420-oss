@@ -1,267 +1,102 @@
-<!-- ╔══════════════════════════════════════════════════════════╗ -->
-<!-- ║          Akash420-oss — GitHub Profile README            ║ -->
-<!-- ╚══════════════════════════════════════════════════════════╝ -->
-
-<!-- ━━━━━━━━━━━━━━━━━━  ASCII PROFILE CARD  ━━━━━━━━━━━━━━━━━━ -->
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)"  srcset="dark_mode.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="light_mode.svg" />
-    <img alt="Akash420-oss's ASCII GitHub profile card" src="dark_mode.svg" width="100%" />
-  </picture>
+  <img src="./assets/terminal.svg" width="100%"
+       alt="Animated terminal: an SSH login to blackbox as akashsil, then whoami and cat focus.txt reporting Akash Sil, security researcher, working on IoT security, network penetration testing, reverse engineering and exploit development, and open to collaborate." />
 </div>
 
----
+<h1 align="center">Akash Sil</h1>
 
-<!-- ━━━━━━━━━━━━━━━━━━━━  HERO BANNER (animated, light/dark aware)  ━━━━━━━━ -->
-<picture>
-  <source media="(prefers-color-scheme: dark)"
-    srcset="https://capsule-render.vercel.app/api?type=venom&color=0:0a0e27,50:11F744,100:0a0e27&height=200&section=header&text=Akash%20Sil&fontSize=72&fontColor=11F744&animation=fadeIn&fontAlignY=55&desc=Cybersecurity%20%7C%20Penetration%20Testing%20%7C%20Reverse%20Engineering&descSize=18&descAlignY=75&descColor=00ccff" />
-  <source media="(prefers-color-scheme: light)"
-    srcset="https://capsule-render.vercel.app/api?type=venom&color=0:e8f5e9,50:00c853,100:e8f5e9&height=200&section=header&text=Akash%20Sil&fontSize=72&fontColor=1b5e20&animation=fadeIn&fontAlignY=55&desc=Cybersecurity%20%7C%20Penetration%20Testing%20%7C%20Reverse%20Engineering&descSize=18&descAlignY=75&descColor=004d40" />
-  <img alt="Akash Sil animated hero banner"
-       src="https://capsule-render.vercel.app/api?type=venom&color=0:0a0e27,50:11F744,100:0a0e27&height=200&section=header&text=Akash%20Sil&fontSize=72&fontColor=11F744&animation=fadeIn&fontAlignY=55&desc=Cybersecurity%20%7C%20Penetration%20Testing%20%7C%20Reverse%20Engineering&descSize=18&descAlignY=75&descColor=00ccff"
-       width="100%" />
-</picture>
-
-<!-- ━━━━━━━━━━━━━━━━━━  HACKER TERMINAL (animated typing SVG)  ━━━━━━━━━━━━ -->
-<h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=800&color=11F744&background=0A0E2700&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=130&lines=root%40hack%3A~%24+whoami;%E2%96%BA+Akash420-oss+%5BCybersecurity+Specialist%5D;root%40hack%3A~%24+cat+skills.txt;%E2%96%BA+Python+%7C+C+%7C+Bash+%7C+Network+Security;root%40hack%3A~%24+system_status;%E2%9C%93+Access+Level%3A+ROOT+GRANTED" alt="Hacker Terminal Animation" />
-  </a>
-</h1>
-
-<h2 align="center">
-  <img src="https://github.com/Akash420-oss/Akash420-oss/blob/main/coder_hacker.gif?raw=true" width="27" />
-  &nbsp;...𓆩Ⱥҟⱥꞩħ Ꞩīł𓆪...&nbsp;
-  <img src="https://github.com/Akash420-oss/Akash420-oss/blob/main/coder_hacker.gif?raw=true" width="27" />
-</h2>
-
-<!-- Animated wave separator -->
-<h3 align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" />
-</h3>
-
-<!-- Profile view counter -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=akash420-oss&label=%F0%9F%91%81%EF%B8%8F%20Profile%20Views&color=11F744&style=for-the-badge" alt="Profile views" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=19&pause=1200&color=A855F7&center=true&vCenter=true&width=560&height=42&lines=IoT+security+and+embedded+devices;Network+penetration+testing;Reverse+engineering+and+exploit+development;C+%7C+Python+%7C+Shell+%7C+Linux"
+       alt="IoT security and embedded devices — network penetration testing — reverse engineering and exploit development — C, Python, Shell, Linux" />
 </p>
 
----
 
-<!-- ━━━━━━━━━━━━━━━━━━━━  WHO AM I  ━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
-<table align="center" width="100%">
-<tr>
-<td width="60%" valign="top">
-
-### 🕵️ Who Am I...
-
-- 😉 I may be mistaken for a robot, but trust me, I'm just a human with an exceptionally well-oiled brain…
-- 🛡️ Skilled in **C**, **Python**, and **Shell scripting** for security assessments & tool development
-- 💻 Experienced in **Linux** environments — system administration, command-line wizardry
-- 🌐 Specialised in **IoT Security** — protocols, device architectures & vulnerabilities
-- 🔥 Passionate about **Network Penetration Testing** and **Reverse Engineering**
-- 💡 Open to collaborate on **cybersecurity**, **pen-testing** & **RE** projects
-- 🧠 Constantly learning — staying sharp on the latest in ethical hacking & exploit dev
-
-<br/>
-
-🔴 **H0w T0 R34ch M3 ➢** `akashsil420@duck.com`
-
-</td>
-<td width="40%" align="center" valign="middle">
-  <img src="https://github.com/Akash420-oss/Akash420-oss/blob/main/skull_cmatrix.gif?raw=true" width="240" alt="skull cmatrix" />
-</td>
-</tr>
-</table>
-
----
-
-<!-- ━━━━━━━━━━━━━━━━━━  SOCIAL BADGES  ━━━━━━━━━━━━━━━━━━━━━━━ -->
-<h3 align="center">🌐 Connect with Me</h3>
 <p align="center">
-
-  <!-- LinkedIn -->
-  <a href="https://linkedin.com/in/akash-sil-102481216" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Akash%20Sil-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>&nbsp;
-  <!-- Instagram -->
-  <a href="https://instagram.com/akash_sil_420" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-akash__sil__420-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>&nbsp;
-  <!-- Facebook -->
-  <a href="https://fb.com/akash.sil.5851" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-akash.sil.5851-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
-  </a>&nbsp;
-  <!-- Email -->
+  <a href="https://linkedin.com/in/akash-sil-102481216">
+    <img src="https://img.shields.io/badge/LinkedIn-2A1147?style=for-the-badge&logo=linkedin&logoColor=A855F7" alt="LinkedIn" /></a>
   <a href="mailto:akashsil420@duck.com">
-    <img src="https://img.shields.io/badge/Email-akashsil420%40duck.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-
+    <img src="https://img.shields.io/badge/Email-2A1147?style=for-the-badge&logo=duckduckgo&logoColor=A855F7" alt="Email" /></a>
+  <a href="https://instagram.com/akash_sil_420">
+    <img src="https://img.shields.io/badge/Instagram-2A1147?style=for-the-badge&logo=instagram&logoColor=A855F7" alt="Instagram" /></a>
+  <a href="https://fb.com/akash.sil.5851">
+    <img src="https://img.shields.io/badge/Facebook-2A1147?style=for-the-badge&logo=facebook&logoColor=A855F7" alt="Facebook" /></a>
 </p>
 
-<!-- GIF social icons -->
-<p align="center">
-  <a href="https://linkedin.com/in/akash-sil-102481216" target="_blank">
-    <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" height="40" width="40" alt="LinkedIn animated" />
-  </a>
-  <a href="https://fb.com/akash.sil.5851" target="_blank">
-    <img src="https://user-images.githubusercontent.com/74038190/235294010-ec412ef5-e3da-4efa-b1d4-0ab4d4638755.gif" height="40" width="40" alt="Facebook animated" />
-  </a>
-  <a href="https://instagram.com/akash_sil_420" target="_blank">
-    <img src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" height="40" width="40" alt="Instagram animated" />
-  </a>
+<img src="assets/neon-divider.svg" alt="" width="100%" />
+
+## About
+
+- Skilled in **C**, **Python** and **shell scripting** for security assessments and tool development.
+- At home in **Linux** — system administration and command-line work.
+- Specialised in **IoT security**: protocols, device architectures, and the vulnerabilities that live between them.
+- Focused on **network penetration testing** and **reverse engineering**.
+- Open to collaborate on cybersecurity, pen-testing and RE projects.
+- Constantly learning — staying sharp on ethical hacking and exploit development.
+- I may be mistaken for a robot. I'm just a human with a well-oiled brain.
+
+**Reach me** → [`akashsil420@duck.com`](mailto:akashsil420@duck.com)
+
+<img src="assets/neon-divider.svg" alt="" width="100%" />
+
+## Toolchain
+
+
+
+<p>
+  <img src="https://img.shields.io/badge/languages-6D28D9?style=flat-square" alt="Languages" />
+  <img src="https://img.shields.io/badge/C-1E0B38?style=flat-square&logo=c&logoColor=A855F7" alt="C" />
+  <img src="https://img.shields.io/badge/Python-1E0B38?style=flat-square&logo=python&logoColor=A855F7" alt="Python" />
+  <img src="https://img.shields.io/badge/Bash-1E0B38?style=flat-square&logo=gnubash&logoColor=A855F7" alt="Bash" />
+  <img src="https://img.shields.io/badge/Linux-1E0B38?style=flat-square&logo=linux&logoColor=A855F7" alt="Linux" />
+  <img src="https://img.shields.io/badge/Docker-1E0B38?style=flat-square&logo=docker&logoColor=A855F7" alt="Docker" />
+  <img src="https://img.shields.io/badge/Git-1E0B38?style=flat-square&logo=git&logoColor=A855F7" alt="Git" />
 </p>
 
----
-
-<!-- ━━━━━━━━━━━━━━━  LOVE INJECTION LINE  ━━━━━━━━━━━━━━━━━━━━━ -->
-<p align="center">
-  🟢 <b>┣▇▇ 𝙻𝚘𝚟𝚎 𝙸𝚗𝚓𝚎𝚌𝚝𝚒𝚘𝚗 ▇▇═─ ❤️</b>
-  &nbsp;
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1000&color=8C00CC&vCenter=true&width=560&height=13&separator=%3C&lines=+SELECT+feelings+FROM+your_heart+WHERE+virus%3D'love'+OR+'1'%3D'1';" alt="Love Injection SVG" />
-  </a>
+<p>
+  <img src="https://img.shields.io/badge/network-6D28D9?style=flat-square" alt="Network" />
+  <img src="https://img.shields.io/badge/Nmap-1E0B38?style=flat-square" alt="Nmap" />
+  <img src="https://img.shields.io/badge/Wireshark-1E0B38?style=flat-square&logo=wireshark&logoColor=A855F7" alt="Wireshark" />
+  <img src="https://img.shields.io/badge/tcpdump-1E0B38?style=flat-square" alt="tcpdump" />
+  <img src="https://img.shields.io/badge/Scapy-1E0B38?style=flat-square" alt="Scapy" />
+  <img src="https://img.shields.io/badge/aircrack--ng-1E0B38?style=flat-square" alt="aircrack-ng" />
+  <img src="https://img.shields.io/badge/Burp%20Suite-1E0B38?style=flat-square" alt="Burp Suite" />
+  <img src="https://img.shields.io/badge/Metasploit-1E0B38?style=flat-square&logo=metasploit&logoColor=A855F7" alt="Metasploit" />
 </p>
 
----
-
-<!-- ━━━━━━━━━━━━━━━━━  TOOLS & EXPLOITS  ━━━━━━━━━━━━━━━━━━━━━━ -->
-<h3 align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="20" />
-  &nbsp;Exploits &amp; Utilities
-</h3>
-
-<p align="center">
-  <a href="https://www.arduino.cc/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/></a>&nbsp;
-  <a href="https://www.gnu.org/software/bash/" target="_blank"><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/></a>&nbsp;
-  <a href="https://www.cprogramming.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/></a>&nbsp;
-  <a href="https://www.docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/></a>&nbsp;
-  <a href="https://www.linux.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></a>&nbsp;
-  <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a>&nbsp;
-  <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>&nbsp;
-  <a href="https://nmap.org" target="_blank"><img src="https://nmap.org/images/nmap-logo-256x256.png" alt="nmap" width="40" height="40"/></a>&nbsp;
-  <a href="https://www.wireshark.org" target="_blank"><img src="https://cdn.icon-icons.com/icons2/1508/PNG/512/wireshark_104082.png" alt="wireshark" width="40" height="40"/></a>&nbsp;
-  <a href="https://scapy.net" target="_blank"><img src="https://scapy.readthedocs.io/en/latest/_images/scapy_logo.png" alt="scapy" width="40" height="40"/></a>&nbsp;
-  <a href="https://ghidra-sre.org" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Ghidra_logo.svg/1200px-Ghidra_logo.svg.png" alt="ghidra" width="40" height="40"/></a>&nbsp;
-  <a href="https://firebase.google.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/></a>
+<p>
+  <img src="https://img.shields.io/badge/reversing-6D28D9?style=flat-square" alt="Reversing" />
+  <img src="https://img.shields.io/badge/Ghidra-1E0B38?style=flat-square" alt="Ghidra" />
+  <img src="https://img.shields.io/badge/radare2-1E0B38?style=flat-square" alt="radare2" />
+  <img src="https://img.shields.io/badge/GDB-1E0B38?style=flat-square&logo=gnu&logoColor=A855F7" alt="GDB" />
+  <img src="https://img.shields.io/badge/binwalk-1E0B38?style=flat-square" alt="binwalk" />
+  <img src="https://img.shields.io/badge/QEMU-1E0B38?style=flat-square&logo=qemu&logoColor=A855F7" alt="QEMU" />
 </p>
 
----
+<img src="assets/neon-divider.svg" alt="" width="100%" />
 
-<!-- ━━━━━━━━━━━━━━━━━━  GITHUB STATS  ━━━━━━━━━━━━━━━━━━━━━━━━ -->
-<h3 align="center">📊 GitHub Stats</h3>
+## GitHub
 
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)"
-      srcset="https://github-readme-stats.vercel.app/api?username=akash420-oss&show_icons=true&theme=gotham&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117" />
-    <source media="(prefers-color-scheme: light)"
-      srcset="https://github-readme-stats.vercel.app/api?username=akash420-oss&show_icons=true&theme=default&hide_border=true&include_all_commits=true&count_private=true" />
-    <img src="https://github-readme-stats.vercel.app/api?username=akash420-oss&show_icons=true&theme=gotham&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117"
-         alt="Akash's GitHub stats" height="180" />
-  </picture>
-  &nbsp;
-  <picture>
-    <source media="(prefers-color-scheme: dark)"
-      srcset="https://github-readme-stats.vercel.app/api/top-langs?username=akash420-oss&layout=compact&theme=gotham&hide_border=true&bg_color=0d1117&langs_count=8" />
-    <source media="(prefers-color-scheme: light)"
-      srcset="https://github-readme-stats.vercel.app/api/top-langs?username=akash420-oss&layout=compact&theme=default&hide_border=true&langs_count=8" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=akash420-oss&layout=compact&theme=gotham&hide_border=true&bg_color=0d1117&langs_count=8"
-         alt="Top Languages" height="180" />
-  </picture>
-</div>
-
-<!-- Streak stats -->
-<div align="center">
-  <br/>
-  <picture>
-    <source media="(prefers-color-scheme: dark)"
-      srcset="https://streak-stats.demolab.com?user=akash420-oss&theme=gotham&hide_border=true&background=0d1117" />
-    <source media="(prefers-color-scheme: light)"
-      srcset="https://streak-stats.demolab.com?user=akash420-oss&theme=default&hide_border=true" />
-    <img src="https://streak-stats.demolab.com?user=akash420-oss&theme=gotham&hide_border=true&background=0d1117"
-         alt="GitHub Streak" height="180" />
-  </picture>
-</div>
-
----
-
-<!-- ━━━━━━━━━━━━━━━━━━━  PROJECTS  ━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
-<h3 align="center">🚀 Projects</h3>
-
-<!-- Animated projects banner — capsule-render, no static PNG -->
-<div align="center">
-  <a href="https://github.com/Akash420-oss?tab=repositories" target="_blank">
-    <picture>
-      <source media="(prefers-color-scheme: dark)"
-        srcset="https://capsule-render.vercel.app/api?type=rect&color=0:0a0e27,100:11F744&height=60&text=%F0%9F%9B%B8%20Explore%20My%20Projects&fontSize=28&fontColor=ffffff&animation=blinking&fontAlignY=62" />
-      <source media="(prefers-color-scheme: light)"
-        srcset="https://capsule-render.vercel.app/api?type=rect&color=0:e8f5e9,100:00c853&height=60&text=%F0%9F%9B%B8%20Explore%20My%20Projects&fontSize=28&fontColor=1b5e20&animation=blinking&fontAlignY=62" />
-      <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0e27,100:11F744&height=60&text=%F0%9F%9B%B8%20Explore%20My%20Projects&fontSize=28&fontColor=ffffff&animation=blinking&fontAlignY=62"
-           alt="Projects Banner" width="80%" />
-    </picture>
-  </a>
-</div>
-
-<br/>
 
 <div align="center">
 
-| 🛠️ Project | 📝 Description | ⭐ |
-|:---|:---|:---:|
-| [**NetRecon**](https://github.com/Akash420-oss) | Network recon & port scanning toolkit built in Python + Scapy | 🔥 |
-| [**GhidraPlugins**](https://github.com/Akash420-oss) | Custom Ghidra scripts for automated reverse engineering | 🔥 |
-| [**IoT-Pwner**](https://github.com/Akash420-oss) | IoT device vulnerability scanner & exploit framework | 🔥 |
-| [**ShellSorcery**](https://github.com/Akash420-oss) | Advanced bash scripts for Linux post-exploitation | 🔥 |
+  <img width="49%" alt="GitHub stats"
+       src="https://github-readme-stats.vercel.app/api?username=Akash420-oss&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&card_width=420&bg_color=0A0416&title_color=A855F7&text_color=EDE9F4&icon_color=39FF88&cache_seconds=21600" />
+  <img width="49%" alt="Most used languages"
+       src="https://github-readme-stats.vercel.app/api/top-langs?username=Akash420-oss&layout=compact&langs_count=6&hide_border=true&card_width=420&bg_color=0A0416&title_color=A855F7&text_color=EDE9F4&cache_seconds=21600" />
+
+  <img width="99%" alt="Contribution activity"
+       src="https://github-readme-activity-graph.vercel.app/graph?username=Akash420-oss&hide_border=true&area=true&radius=6&bg_color=0A0416&color=D8B4FE&title_color=A855F7&line=A855F7&point=39FF88" />
 
 </div>
 
----
 
-<!-- ━━━━━━━━━━━━━━━  CONTRIBUTION SNAKE  ━━━━━━━━━━━━━━━━━━━━━━ -->
-<h3 align="center">🐍 Contribution Snake</h3>
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/Akash420-oss/Akash420-oss/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/Akash420-oss/Akash420-oss/output/github-snake.svg" />
-    <img alt="github contribution snake animation"
-         src="https://raw.githubusercontent.com/Akash420-oss/Akash420-oss/output/github-snake-dark.svg"
-         width="100%" />
-  </picture>
-</div>
 
----
-
-<!-- ━━━━━━━━━━━━━━━━━  ACTIVITY GRAPH  ━━━━━━━━━━━━━━━━━━━━━━━━ -->
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)"
-      srcset="https://github-readme-activity-graph.vercel.app/graph?username=akash420-oss&theme=github-dark&hide_border=true&area=true" />
-    <source media="(prefers-color-scheme: light)"
-      srcset="https://github-readme-activity-graph.vercel.app/graph?username=akash420-oss&theme=github-light&hide_border=true&area=true" />
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=akash420-oss&theme=github-dark&hide_border=true&area=true"
-         alt="Contribution Activity Graph" width="100%" />
-  </picture>
-</div>
-
----
-
-<!-- ━━━━━━━━━━━━━━━━━━  FOOTER (animated waving, light/dark aware)  ━━━━━━━ -->
-<picture>
-  <source media="(prefers-color-scheme: dark)"
-    srcset="https://capsule-render.vercel.app/api?type=waving&color=0:11F744,100:0a0e27&height=80&section=footer&fontColor=ffffff" />
-  <source media="(prefers-color-scheme: light)"
-    srcset="https://capsule-render.vercel.app/api?type=waving&color=0:00c853,100:e8f5e9&height=80&section=footer&fontColor=1b5e20" />
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:11F744,100:0a0e27&height=80&section=footer&fontColor=ffffff"
-       alt="footer wave" width="100%" />
-</picture>
+<img src="assets/neon-divider.svg" alt="" width="100%" />
 
 <p align="center">
-  <i>"The quieter you become, the more you are able to hear."</i>
-  <br/>
-  <sub>— Kali Linux 🐉</sub>
+  <img src="https://komarev.com/ghpvc/?username=Akash420-oss&label=views&color=2A1147&style=flat-square" alt="Profile views" />
 </p>
 
+<p align="center">
+  <sub><code>reverse engineering — reading someone else's mind, one instruction at a time</code></sub>
+</p>

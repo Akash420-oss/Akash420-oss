@@ -1,0 +1,72 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 840 327" width="840" height="327" role="img" aria-label="Terminal session: an SSH login to blackbox as akashsil, then whoami and cat focus.txt reporting Akash Sil, security researcher, working on IoT security, network penetration testing, reverse engineering and exploit development, and open to collaborate.">
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0A0416"/><stop offset="0.55" stop-color="#0C0620"/><stop offset="1" stop-color="#0A0416"/></linearGradient>
+<linearGradient id="bar" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#1E0B38"/><stop offset="1" stop-color="#170928"/></linearGradient>
+<linearGradient id="rule" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#A855F7" stop-opacity="0.85"/><stop offset="0.5" stop-color="#6D28D9" stop-opacity="0.35"/><stop offset="1" stop-color="#A855F7" stop-opacity="0"/></linearGradient>
+<pattern id="scan" width="4" height="4" patternUnits="userSpaceOnUse"><rect width="4" height="1" fill="#A855F7" opacity="0.028"/></pattern>
+<clipPath id="clip0">
+<rect x="200.61" y="49.50" height="21.75" width="0">
+<animate attributeName="width" calcMode="discrete" values="0;11;20;29;37;46;55;64;72;81;90;99;107;116;125;133;142;151;160;168;177;186;186" keyTimes="0.000000;0.042194;0.047474;0.053594;0.065426;0.069023;0.072812;0.076266;0.079551;0.082977;0.089267;0.093086;0.096453;0.103189;0.107701;0.111591;0.115061;0.121338;0.126800;0.132702;0.137591;0.141070;1.000000" dur="13.904s" repeatCount="indefinite"/>
+</rect>
+</clipPath>
+<clipPath id="clip3">
+<rect x="209.34" y="115.50" height="21.75" width="0">
+<animate attributeName="width" calcMode="discrete" values="0;11;20;29;37;46;55;55" keyTimes="0.000000;0.405676;0.409762;0.414793;0.421378;0.425486;0.429811;1.000000" dur="13.904s" repeatCount="indefinite"/>
+</rect>
+</clipPath>
+<clipPath id="clip5">
+<rect x="209.34" y="159.50" height="21.75" width="0">
+<animate attributeName="width" calcMode="discrete" values="0;11;20;29;37;46;55;64;72;81;90;99;107;116;125;125" keyTimes="0.000000;0.488012;0.492768;0.498874;0.511336;0.517812;0.522428;0.528303;0.532235;0.538391;0.542735;0.553058;0.556490;0.560972;0.566147;1.000000" dur="13.904s" repeatCount="indefinite"/>
+</rect>
+</clipPath>
+<clipPath id="clip8">
+<rect x="209.34" y="225.50" height="21.75" width="0">
+<animate attributeName="width" calcMode="discrete" values="0;11;20;29;37;46;55;64;72;81;90;99;107;116;125;133;142;151;151" keyTimes="0.000000;0.659998;0.669790;0.673281;0.678886;0.683489;0.687379;0.693067;0.697890;0.707468;0.717231;0.725607;0.729742;0.735668;0.741730;0.745391;0.750501;0.756191;1.000000" dur="13.904s" repeatCount="indefinite"/>
+</rect>
+</clipPath>
+</defs>
+<rect x="0.75" y="0.75" width="838.5" height="325.61" rx="11" fill="url(#bg)" stroke="#2A1147" stroke-width="1.5"/>
+<rect x="0.75" y="0.75" width="838.5" height="325.61" rx="11" fill="url(#scan)"/>
+<path d="M0.75 38.0 h838.5 M0.75 11.75 a11 11 0 0 1 11-11 h816.5 a11 11 0 0 1 11 11 V38.0 H0.75 Z" fill="url(#bar)"/>
+<line x1="0.75" y1="38.0" x2="839.25" y2="38.0" stroke="#2A1147" stroke-width="1.5"/>
+<circle cx="22" cy="19.0" r="4.5" fill="#A855F7"/>
+<circle cx="39" cy="19.0" r="4.5" fill="#6D28D9"/>
+<circle cx="56" cy="19.0" r="4.5" fill="#3E1D6B"/>
+<text x="420.0" y="23.4" text-anchor="middle" font-family="ui-monospace,'SFMono-Regular','SF Mono',Menlo,'DejaVu Sans Mono','Liberation Mono','Courier New',monospace" font-size="11.5" fill="#8B7BA8" letter-spacing="1.6" opacity="1">visitor@blackbox — bash<animate attributeName="opacity" calcMode="discrete" values="1;0;0" keyTimes="0.000000;0.368076;1.000000" dur="13.904s" repeatCount="indefinite"/></text>
+<text x="420.0" y="23.4" text-anchor="middle" font-family="ui-monospace,'SFMono-Regular','SF Mono',Menlo,'DejaVu Sans Mono','Liberation Mono','Courier New',monospace" font-size="11.5" fill="#8B7BA8" letter-spacing="1.6" opacity="0">akashsil@blackbox — ssh<animate attributeName="opacity" calcMode="discrete" values="0;1;1" keyTimes="0.000000;0.368076;1.000000" dur="13.904s" repeatCount="indefinite"/></text>
+<g transform="translate(748,10.0)" opacity="1">
+<animate attributeName="opacity" calcMode="discrete" values="1;0;0" keyTimes="0.000000;0.368076;1.000000" dur="13.904s" repeatCount="indefinite"/>
+<rect width="72" height="18" rx="9" fill="#0A0416" stroke="#2A1147" stroke-width="1"/>
+<circle cx="13" cy="9" r="3" fill="#6D28D9"></circle>
+<text x="23" y="12.8" font-family="ui-monospace,'SFMono-Regular','SF Mono',Menlo,'DejaVu Sans Mono','Liberation Mono','Courier New',monospace" font-size="9.5" fill="#8B7BA8" letter-spacing="0.9">locked</text>
+</g>
+<g transform="translate(748,10.0)" opacity="0">
+<animate attributeName="opacity" calcMode="discrete" values="0;1;1" keyTimes="0.000000;0.368076;1.000000" dur="13.904s" repeatCount="indefinite"/>
+<rect width="72" height="18" rx="9" fill="#0A0416" stroke="#2A1147" stroke-width="1"/>
+<circle cx="13" cy="9" r="3" fill="#39FF88"><animate attributeName="opacity" values="1;0.25;1" dur="2.2s" repeatCount="indefinite"/></circle>
+<text x="23" y="12.8" font-family="ui-monospace,'SFMono-Regular','SF Mono',Menlo,'DejaVu Sans Mono','Liberation Mono','Courier New',monospace" font-size="9.5" fill="#8B7BA8" letter-spacing="0.9">online</text>
+</g>
+<g font-family="ui-monospace,'SFMono-Regular','SF Mono',Menlo,'DejaVu Sans Mono','Liberation Mono','Courier New',monospace" font-size="14.5" dominant-baseline="alphabetic" xml:space="preserve">
+<text y="64.00" opacity="0"><tspan x="26.00" fill="#8B7BA8">visitor@blackbox</tspan><tspan x="165.69" fill="#8B7BA8">:~</tspan><tspan x="183.15" fill="#D8B4FE">$ </tspan><animate attributeName="opacity" calcMode="discrete" values="0;1;1" keyTimes="0.000000;0.037398;1.000000" dur="13.904s" repeatCount="indefinite"/></text>
+<text x="200.61" y="64.00" fill="#EDE9F4" clip-path="url(#clip0)">ssh akashsil@blackbox</text>
+<text y="86.00" opacity="0"><tspan x="26.00" fill="#A855F7">akashsil@blackbox</tspan><tspan x="174.42" fill="#8B7BA8">'s password: </tspan><animate attributeName="opacity" calcMode="discrete" values="0;1;1" keyTimes="0.000000;0.240319;1.000000" dur="13.904s" repeatCount="indefinite"/></text>
+<text y="108.00" opacity="0"><tspan x="26.00" fill="#39FF88" font-weight="600">[ok]</tspan><tspan x="60.92" fill="#EDE9F4"> connection established  ·  aes256-gcm</tspan><animate attributeName="opacity" calcMode="discrete" values="0;1;1" keyTimes="0.000000;0.368076;1.000000" dur="13.904s" repeatCount="indefinite"/></text>
+<text y="130.00" opacity="0"><tspan x="26.00" fill="#A855F7">akashsil@blackbox</tspan><tspan x="174.42" fill="#8B7BA8">:~</tspan><tspan x="191.88" fill="#D8B4FE">$ </tspan><animate attributeName="opacity" calcMode="discrete" values="0;1;1" keyTimes="0.000000;0.399721;1.000000" dur="13.904s" repeatCount="indefinite"/></text>
+<text x="209.34" y="130.00" fill="#EDE9F4" clip-path="url(#clip3)">whoami</text>
+<text y="152.00" opacity="0"><tspan x="26.00" fill="#EDE9F4">akash sil</tspan><tspan x="104.57" fill="#8B7BA8">  ·  </tspan><tspan x="148.23" fill="#D8B4FE">cybersecurity researcher</tspan><animate attributeName="opacity" calcMode="discrete" values="0;1;1" keyTimes="0.000000;0.451387;1.000000" dur="13.904s" repeatCount="indefinite"/></text>
+<text y="174.00" opacity="0"><tspan x="26.00" fill="#A855F7">akashsil@blackbox</tspan><tspan x="174.42" fill="#8B7BA8">:~</tspan><tspan x="191.88" fill="#D8B4FE">$ </tspan><animate attributeName="opacity" calcMode="discrete" values="0;1;1" keyTimes="0.000000;0.483032;1.000000" dur="13.904s" repeatCount="indefinite"/></text>
+<text x="209.34" y="174.00" fill="#EDE9F4" clip-path="url(#clip5)">cat skills.txt</text>
+<text y="196.00" opacity="0"><tspan x="26.00" fill="#EDE9F4">web security  ·  network penetration testing</tspan><animate attributeName="opacity" calcMode="discrete" values="0;1;1" keyTimes="0.000000;0.587723;1.000000" dur="13.904s" repeatCount="indefinite"/></text>
+<text y="218.00" opacity="0"><tspan x="26.00" fill="#EDE9F4">reverse engineering  ·  tool developer</tspan><animate attributeName="opacity" calcMode="discrete" values="0;1;1" keyTimes="0.000000;0.619368;1.000000" dur="13.904s" repeatCount="indefinite"/></text>
+<text y="240.00" opacity="0"><tspan x="26.00" fill="#A855F7">akashsil@blackbox</tspan><tspan x="174.42" fill="#8B7BA8">:~</tspan><tspan x="191.88" fill="#D8B4FE">$ </tspan><animate attributeName="opacity" calcMode="discrete" values="0;1;1" keyTimes="0.000000;0.651013;1.000000" dur="13.904s" repeatCount="indefinite"/></text>
+<text x="209.34" y="240.00" fill="#EDE9F4" clip-path="url(#clip8)">./collab --status</text>
+<text y="262.00" opacity="0"><tspan x="26.00" fill="#39FF88" font-weight="600">[ok]</tspan><tspan x="60.92" fill="#EDE9F4"> open to cybersecurity, pentest and RE work</tspan><animate attributeName="opacity" calcMode="discrete" values="0;1;1" keyTimes="0.000000;0.777767;1.000000" dur="13.904s" repeatCount="indefinite"/></text>
+<text y="284.00" opacity="0"><tspan x="26.00" fill="#A855F7">akashsil@blackbox</tspan><tspan x="174.42" fill="#8B7BA8">:~</tspan><tspan x="191.88" fill="#D8B4FE">$ </tspan><animate attributeName="opacity" calcMode="discrete" values="0;1;1" keyTimes="0.000000;0.809412;1.000000" dur="13.904s" repeatCount="indefinite"/></text>
+</g>
+<rect id="caret" width="8.73" height="17.11" rx="1" fill="#D8B4FE" x="26.00" y="51.53">
+<animate attributeName="x" calcMode="discrete" values="26.00;200.61;209.34;218.07;226.80;235.53;244.26;252.99;261.72;270.45;279.18;287.91;296.64;305.37;314.10;322.84;331.57;340.30;349.03;357.76;366.49;375.22;383.95;26.00;287.91;26.00;26.00;209.34;218.07;226.80;235.53;244.26;252.99;261.72;26.00;209.34;218.07;226.80;235.53;244.26;252.99;261.72;270.45;279.18;287.91;296.64;305.37;314.10;322.84;331.57;26.00;26.00;209.34;218.07;226.80;235.53;244.26;252.99;261.72;270.45;279.18;287.91;296.64;305.37;314.10;322.84;331.57;340.30;349.03;357.76;26.00;209.34;209.34" keyTimes="0.000000;0.037398;0.042194;0.047474;0.053594;0.065426;0.069023;0.072812;0.076266;0.079551;0.082977;0.089267;0.093086;0.096453;0.103189;0.107701;0.111591;0.115061;0.121338;0.126800;0.132702;0.137591;0.141070;0.162646;0.240319;0.288964;0.368076;0.399721;0.405676;0.409762;0.414793;0.421378;0.425486;0.429811;0.451387;0.483032;0.488012;0.492768;0.498874;0.511336;0.517812;0.522428;0.528303;0.532235;0.538391;0.542735;0.553058;0.556490;0.560972;0.566147;0.587723;0.619368;0.651013;0.659998;0.669790;0.673281;0.678886;0.683489;0.687379;0.693067;0.697890;0.707468;0.717231;0.725607;0.729742;0.735668;0.741730;0.745391;0.750501;0.756191;0.777767;0.809412;1.000000" dur="13.904s" repeatCount="indefinite"/>
+<animate attributeName="y" calcMode="discrete" values="51.53;51.53;51.53;51.53;51.53;51.53;51.53;51.53;51.53;51.53;51.53;51.53;51.53;51.53;51.53;51.53;51.53;51.53;51.53;51.53;51.53;51.53;51.53;73.53;73.53;95.53;117.53;117.53;117.53;117.53;117.53;117.53;117.53;117.53;161.53;161.53;161.53;161.53;161.53;161.53;161.53;161.53;161.53;161.53;161.53;161.53;161.53;161.53;161.53;161.53;205.53;227.53;227.53;227.53;227.53;227.53;227.53;227.53;227.53;227.53;227.53;227.53;227.53;227.53;227.53;227.53;227.53;227.53;227.53;227.53;271.53;271.53;271.53" keyTimes="0.000000;0.037398;0.042194;0.047474;0.053594;0.065426;0.069023;0.072812;0.076266;0.079551;0.082977;0.089267;0.093086;0.096453;0.103189;0.107701;0.111591;0.115061;0.121338;0.126800;0.132702;0.137591;0.141070;0.162646;0.240319;0.288964;0.368076;0.399721;0.405676;0.409762;0.414793;0.421378;0.425486;0.429811;0.451387;0.483032;0.488012;0.492768;0.498874;0.511336;0.517812;0.522428;0.528303;0.532235;0.538391;0.542735;0.553058;0.556490;0.560972;0.566147;0.587723;0.619368;0.651013;0.659998;0.669790;0.673281;0.678886;0.683489;0.687379;0.693067;0.697890;0.707468;0.717231;0.725607;0.729742;0.735668;0.741730;0.745391;0.750501;0.756191;0.777767;0.809412;1.000000" dur="13.904s" repeatCount="indefinite"/>
+<animate attributeName="opacity" calcMode="discrete" values="1;1;1;0;1;1;0;1;1;1;1;1;1;1;1;1;1;0;1;0;1;1;1" keyTimes="0.000000;0.141070;0.162646;0.200763;0.238881;0.288964;0.327082;0.365199;0.368076;0.429811;0.451387;0.566147;0.587723;0.619368;0.756191;0.777767;0.809412;0.847529;0.885647;0.923765;0.961882;1.000000;1.000000" dur="13.904s" repeatCount="indefinite"/>
+</rect>
+<rect x="0.75" y="323.86" width="838.5" height="2.5" fill="url(#rule)"/>
+</svg>
